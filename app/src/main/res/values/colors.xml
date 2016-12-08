@@ -18,6 +18,8 @@
     <color name="border_block">#EAEAEA</color>
     <color name="textcolor">#63B8FF</color>
     <color name="color_ccc">#CCC</color>
+    <color name="left">#fc6a7b</color>
+    <color name="right">#2aad95</color>
 
     <color name="white">#fff</color>
 </resources>

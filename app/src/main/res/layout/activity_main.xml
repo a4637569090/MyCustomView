@@ -25,4 +25,10 @@
         android:layout_height="wrap_content"
         android:text="贝塞尔曲线" />
 
+    <Button
+        android:id="@+id/five_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="条形柱状图" />
+
 </LinearLayout>

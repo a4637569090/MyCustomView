@@ -39,5 +39,10 @@
         <attr name="titleColor"></attr>
     </declare-styleable>
 
+    <declare-styleable name="MyChartView">
+        <attr name="leftColor" format="color"></attr>
+        <attr name="rightColor" format="color"></attr>
+        <attr name="xyColor" format="color"></attr>
+    </declare-styleable>
 
 </resources>
